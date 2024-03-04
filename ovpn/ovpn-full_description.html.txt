@@ -2,14 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-</head>
-  <body>
-    <h1></h1>
-  </body>
-</html><!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
 <title></title>
 </head>
   <body>
@@ -23,7 +15,6 @@
 <p><font color = "#FF6600">Подробная инструкция:</font> <a href="https://telegra.ph/WebOS-OVPN-klient-07-12">https://telegra.ph/WebOS-OVPN-klient-07-12</a></p>
 <p>Изменения версий:</p>
 <p>23.6.2 - добавлена возможность отключения OpenVPN без перезагрузки. Для выключения повторно нажать на иконку в панели приложений</p>
-<img src="https://github.com/maxaon09/ipk_MN/raw/main/ovpn/screen1%20(1).png" alt="" />
-<img src="https://github.com/maxaon09/ipk_MN/raw/main/ovpn/screen2.png" alt="" />
+<img src="https://github.com/wals09/repo/blob/main/ovpn/screen1%20(1).png?raw=true" alt="" />
   </body>
 </html>
