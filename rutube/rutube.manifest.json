@@ -1,1 +1,14 @@
-{"id": "com.rutube.ru", "version": "1.0.0", "type": "web", "title": "RuTube", "appDescription": "Приложение RuTube", "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/rutube/RuTube_icon.png", "sourceUrl": "https://t.me/ipk_moding_chat", "rootRequired": false, "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/rutube/com.rutube.ru_1.0.0_all.ipk", "ipkHash": {"sha256": "c1e4e981941acb046af45338edbf5053b600902fc12de589d96098877446d3c6"}}                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+{
+   "id": "com.rutube.ru",
+   "version": "1.0.0",
+   "type": "web",
+   "title": "RuTube",
+   "appDescription": "Приложение RuTube",
+   "iconUri": "https://github.com/wals09/repo/blob/main/rutube/RuTube_icon.png?raw=true",
+   "sourceUrl": "https://t.me/ipk_moding_chat",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/rutube/com.rutube.ru_1.0.0_all.ipk",
+   "ipkHash": {
+      "sha256": "c1e4e981941acb046af45338edbf5053b600902fc12de589d96098877446d3c6"
+   }
+}
