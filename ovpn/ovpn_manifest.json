@@ -1,1 +1,14 @@
-{"id": "webos.openvpn.ovpn", "version": "23.6.2", "type": "native", "title": "OpenVPN - OVPN", "appDescription": "Сервер OpenVPN - OVPN", "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/ovpn/icon.png", "sourceUrl": "https://t.me/ipk_moding_chat", "rootRequired": false, "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/ovpn/webos.openvpn.ovpn_23.6.2_all.ipk", "ipkHash": {"sha256": "6c01464992bf93b03d00fc4168c0e709215416235d09b98e743a7e2a1a77c1bf"}}                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+{
+   "id": "webos.openvpn.ovpn",
+   "version": "23.6.2",
+   "type": "native",
+   "title": "OpenVPN - OVPN",
+   "appDescription": "Сервер OpenVPN - OVPN",
+   "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+   "sourceUrl": "https://t.me/ipk_moding_chat",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/ovpn/webos.openvpn.ovpn_23.6.2_all.ipk",
+   "ipkHash": {
+      "sha256": "6c01464992bf93b03d00fc4168c0e709215416235d09b98e743a7e2a1a77c1bf"
+   }
+}
