@@ -1,1 +1,14 @@
-{"id": "com.ottplay.foss", "version": "0.0.4", "type": "web", "title": "OTT-play FOSS", "appDescription": "FOSS iptv player", "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/foss/icon.png", "sourceUrl": "https://ott.prog4food.eu.org", "rootRequired": false, "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/foss/com.ottplay.foss_all.ipk", "ipkHash": {"sha256": "6e8714ffb68d47ca7f15364138dedcb8b7757ef3ceb54d1ec3bd46985a88a731"}}                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+{
+   "id": "com.ottplay.foss",
+   "version": "0.0.4",
+   "type": "web",
+   "title": "OTT-play FOSS",
+   "appDescription": "FOSS iptv player",
+   "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/foss/icon.png",
+   "sourceUrl": "https://ott.prog4food.eu.org",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/foss/com.ottplay.foss_all.ipk",
+   "ipkHash": {
+      "sha256": "6e8714ffb68d47ca7f15364138dedcb8b7757ef3ceb54d1ec3bd46985a88a731"
+   }
+}
