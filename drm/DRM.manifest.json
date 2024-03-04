@@ -1,1 +1,14 @@
-{"id": "com.ott.drm", "version": "0.0.6", "type": "web", "title": "DRM-play", "appDescription": "Ott DRM-play", "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/drm/DRM_icon.png", "sourceUrl": "https://t.me/ott_drmplay", "rootRequired": false, "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/drm/com.ott.drm_0.0.6_all.ipk", "ipkHash": {"sha256": "bafc2159b5d73c342ceb430cdcdc28fdccda9f64e0ba6a895d6e6629617b174b"}}                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+{
+   "id": "com.ott.drm",
+   "version": "0.0.6",
+   "type": "web",
+   "title": "DRM-play",
+   "appDescription": "Ott DRM-play",
+   "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
+   "sourceUrl": "https://t.me/ott_drmplay",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/drm/com.ott.drm_0.0.6_all.ipk",
+   "ipkHash": {
+      "sha256": "bafc2159b5d73c342ceb430cdcdc28fdccda9f64e0ba6a895d6e6629617b174b"
+   }
+}
