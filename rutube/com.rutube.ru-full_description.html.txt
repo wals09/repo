@@ -6,6 +6,6 @@
   <body>
     <h1></h1>
     <p>Web-версия приложения RuTube для тех у кого нет возможности установить из официального магазина приложений LG. Для кореректной работы может понадобиться ВПН</p>
-<img src="https://github.com/maxaon09/ipk_MN/raw/main/rutube/capture.jpg" alt="" />
+<img src="https://github.com/wals09/repo/blob/main/rutube/capture.jpg?raw=true" alt="" />
   </body>
 </html>
