@@ -1,0 +1,13 @@
+{
+"id": "prisma.tv", 
+"version": "1.0.0", 
+"type": "web", 
+"title": "PrismaTV", 
+"appDescription": "PrismaTV. Приложение для просмотра видеоконтента", 
+"iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/prisma.tv/icon.png", 
+"sourceUrl": "https://t.me/prisma_atv", 
+"rootRequired": false, 
+"ipkUrl": "https://github.com/maxaon09/msx/raw/main/prisma.tv/prisma.tv_1.0.0_all.ipk", 
+"ipkHash": {"sha256": "6ee894abad5d29575a40431a26d0b612bfb9eb43f734d41c3669ebe2754a96ad"}
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         
