@@ -1,0 +1,16 @@
+{
+    "icon": "icon.png",
+    "main": "start.html",
+    "title": "WALS-msx",
+    "type": "web",
+    "version": "1.0.0",
+    "splashBackground": "splash.png",
+    "bgColor": "#2f373e",
+    "vendor": "maxaon",
+    "largeIcon": "largeIcon.png",
+    "iconColor": "#2f373e",
+    "id": "wals.msx",
+    "supportGIP":true,
+    "disableBackHistoryAPI":true,
+    "uiRevision":2
+}
