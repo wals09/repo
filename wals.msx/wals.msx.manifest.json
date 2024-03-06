@@ -1,6 +1,6 @@
 {
 "id": "wals.msx", 
-"version": "1.0.0", 
+"version": "2.0.0", 
 "type": "web", 
 "title": "WALS-msx", 
 "appDescription": "Приложение WALS-msx v2", 
@@ -8,6 +8,6 @@
 "sourceUrl": "https://t.me/MovieLab_Forum/3963", 
 "rootRequired": false, 
 "ipkUrl": "https://github.com/wals09/repo/raw/main/wals.msx/wals.msx_1.0.0_all.ipk", 
-"ipkHash": {"sha256": "712d4f16ab6b100335e252c4386f7e9417b9faace54da89bfd738352dd5e5319"}
+"ipkHash": {"sha256": "d6174a2c7ec2ed38710b50fcae6a91b158d761a98bc6d05ce08c329ba025ca74"}
 }
  
