@@ -4,10 +4,10 @@
 "type": "web", 
 "title": "MOVIELAB", 
 "appDescription": "Портал MOVIELAB на базе Media Station X", 
-"iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/movielab/icon.png", 
+"iconUri": "https://github.com/wals09/repo/blob/main/movielab/icon.png?raw=true", 
 "sourceUrl": "https://t.me/MovieLab_Forum/3963", 
 "rootRequired": false, 
-"ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/movielab/movielab.msx_1.0.0_all.ipk", 
-"ipkHash": {"sha256": "85f8a0849565ee49b1ceeb8f45ccd8ea33adb6e4248728ac2a1e29d2dc977899"}
+"ipkUrl": "https://github.com/wals09/repo/raw/main/movielab/movielab.msx_1.0.0_all.ipk", 
+"ipkHash": {"sha256": "9766ea8e59b5753be4bb5666c83a7f31b078668b886779ec013c7a900879dc28"}
 }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ 
