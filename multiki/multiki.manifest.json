@@ -1,1 +1,13 @@
-{"id": "multiki.msx", "version": "2.0.0", "type": "web", "title": "MULTIKI", "appDescription": "Приложение МУЛЬТИКИ", "iconUri": "https://github.com/maxaon09/ipk_M/raw/main/ATODO_icon.png", "sourceUrl": "https://t.me/ipk_moding_chat", "rootRequired": false, "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/multiki/multiki.msx_2.0.0_all.ipk", "ipkHash": {"sha256": "e4433bab2062fe6a6f6eb9fe2287a337b3006762e4e47f4b66f33e568b76252d"}}                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+{
+"id": "multiki.msx", 
+"version": "2.0.0", 
+"type": "web", 
+"title": "MULTIKI", 
+"appDescription": "Приложение МУЛЬТИКИ", 
+"iconUri": "https://github.com/wals09/repo/blob/main/multiki/icon.png?raw=true", 
+"sourceUrl": "https://t.me/chat_ipk_m", 
+"rootRequired": false, 
+"ipkUrl": "https://github.com/wals09/repo/raw/main/multiki/multiki.msx_2.0.0_all.ipk", 
+"ipkHash": {"sha256": "aeb8863ac00b35299d36d07c3979bf1788adf6e067ab4dbad2d9fd8dddaca7f0"}
+}
+ 
