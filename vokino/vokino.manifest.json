@@ -4,7 +4,7 @@
    "type": "web",
    "title": "VoKino",
    "appDescription": "VoKino",
-   "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
+   "iconUri": "https://github.com/wals09/repo/blob/main/vokino/icon.png?raw=true",
    "sourceUrl": "https://vokino.tv",
    "rootRequired": false,
    "ipkUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino.ipk",
