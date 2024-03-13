@@ -7,7 +7,7 @@
    "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
    "sourceUrl": "https://vokino.tv",
    "rootRequired": false,
-   "ipkUrl": "https://github.com/wals09/repo/raw/main/drm/com.ott.drm_0.0.6_all.ipk",
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino.ipk",
    "ipkHash": {
       "sha256": "1997f8aadfe22e7beda692fe6aeec468c93b577eb0cb2738bb697b77bb306298"
    }
