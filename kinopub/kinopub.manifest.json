@@ -1,0 +1,14 @@
+{
+   "id": "kinopub.tv",
+   "version": "1.1.1",
+   "type": "web",
+   "title": "Kinopub TV",
+   "appDescription": "Kinopub TV",
+   "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
+   "sourceUrl": "https://kpms.cc/chat",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/drm/com.ott.drm_0.0.6_all.ipk",
+   "ipkHash": {
+      "sha256": "e335b412b02b57916488094c91b982cb1b29eaa810d72d63d205b59186c6589c"
+   }
+}
