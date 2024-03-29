@@ -1,0 +1,14 @@
+{
+   "id": "kpstv",
+   "version": "0.0.1",
+   "type": "web",
+   "title": "KinoPub STV",
+   "appDescription": "KinoPub STV",
+   "iconUri": "https://github.com/wals09/repo/blob/main/kpstv/icon.png?raw=true",
+   "sourceUrl": "https://kpstv.net/",
+   "rootRequired": false,
+   "ipkUrl": "https://www.dropbox.com/scl/fi/jw95wep3qqf3mvx3z9xm6/kinopub.ipk?rlkey=l8w3vhw933dn39jg5dkefrlqa&dl=1",
+   "ipkHash": {
+      "sha256": "f2b286f58a3f612c928c932723f4b609af0f1c7fa32b20dd5cb423e7e3257a80"
+   }
+}
