@@ -1,0 +1,14 @@
+{
+   "id": "kpstv",
+   "version": "0.0.1",
+   "type": "web",
+   "title": "KinoPub STV",
+   "appDescription": "KinoPub STV",
+   "iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/drm/DRM_icon.png",
+   "sourceUrl": "https://kpstv.net/",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/maxaon09/ipk_MN/raw/main/drm/com.ott.drm_0.0.6_all.ipk",
+   "ipkHash": {
+      "sha256": "f2b286f58a3f612c928c932723f4b609af0f1c7fa32b20dd5cb423e7e3257a80"
+   }
+}                                                                                                                                                                                                                              
