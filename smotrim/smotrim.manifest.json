@@ -4,11 +4,11 @@
    "type": "web",
    "title": "Смотрим",
    "appDescription": "Вэб версия приложения Смотрим",
-   "iconUri": "https://github.com/wals09/msx/blob/main/smotrim/icon.jpg?raw=true",
+   "iconUri": "https://github.com/wals09/repo/blob/main/smotrim/icon.jpg?raw=true",
    "sourceUrl": "https://t.me/ipk_moding_chat",
    "rootRequired": false,
-   "ipkUrl": "https://github.com/wals09/msx/raw/main/smotrim/smotrim.web_1.0.0_all.ipk",
+   "ipkUrl": "https://www.dropbox.com/scl/fi/2aka6w26o3calu0p3z2dc/smotrim.web_1.0.0_all.ipk?rlkey=7yhy4ppcvz07yt3571k1jmjxm&dl=1",
    "ipkHash": {
       "sha256": "997f144c3b87e6dd7f30457b0a904b427d325d905032115bdbbcf9919a6b0682"
    }
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                
+} 
