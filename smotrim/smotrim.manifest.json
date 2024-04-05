@@ -1,0 +1,14 @@
+{
+   "id": "smotrim.web",
+   "version": "1.0.0",
+   "type": "web",
+   "title": "Смотрим",
+   "appDescription": "Вэб версия приложения Смотрим",
+   "iconUri": "https://github.com/wals09/msx/blob/main/smotrim/icon.jpg?raw=true",
+   "sourceUrl": "https://t.me/ipk_moding_chat",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/msx/raw/main/smotrim/smotrim.web_1.0.0_all.ipk",
+   "ipkHash": {
+      "sha256": "997f144c3b87e6dd7f30457b0a904b427d325d905032115bdbbcf9919a6b0682"
+   }
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                
