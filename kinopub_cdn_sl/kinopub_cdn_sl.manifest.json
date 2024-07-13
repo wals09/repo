@@ -7,7 +7,7 @@
    "iconUri": "https://github.com/wals09/repo/blob/main/kinopub/icon.png?raw=true",
    "sourceUrl": "https://kpms.cc/chat",
    "rootRequired": false,
-   "ipkUrl": "https://github.com/wals09/repo/raw/main/kinopub/kinopub.tv.ipk",
+   "ipkUrl": "https://www.dropbox.com/scl/fi/vnfcjouf4bzemk995agqb/kinopub_cdn_sl.ipk?rlkey=7a75qzesp7nhl20zgmudk1h30&st=j8xis4sv&dl=1",
    "ipkHash": {
       "sha256": "a9b3f49a784c30db867764d523e8a4e1beddb22432984ed67aa69f49d18df387"
    }
