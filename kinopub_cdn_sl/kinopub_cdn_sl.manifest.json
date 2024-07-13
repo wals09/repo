@@ -1,0 +1,14 @@
+{
+   "id": "cdnservices.link",
+   "version": "1.0.0",
+   "type": "web",
+   "title": "Кинопаб CdnSL",
+   "appDescription": "Kinopub CdnSL",
+   "iconUri": "https://github.com/wals09/repo/blob/main/kinopub/icon.png?raw=true",
+   "sourceUrl": "https://kpms.cc/chat",
+   "rootRequired": false,
+   "ipkUrl": "https://github.com/wals09/repo/raw/main/kinopub/kinopub.tv.ipk",
+   "ipkHash": {
+      "sha256": "a9b3f49a784c30db867764d523e8a4e1beddb22432984ed67aa69f49d18df387"
+   }
+}
