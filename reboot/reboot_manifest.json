@@ -1,0 +1,13 @@
+﻿{
+"id": "reboot", 
+"version": "1.0.0", 
+"type": "web", 
+"title": "Reboot", 
+"appDescription": "Перезагрузка тв", 
+"iconUri": "https://github.com/maxaon09/ipk_MN/raw/main/reboot/icon.png", 
+"sourceUrl": "https://t.me/chat_ipk_m", 
+"rootRequired": false, 
+"ipkUrl": "https://github.com/maxaon09/msx/raw/main/reboot/reboot_1.0.0_all.ipk", 
+"ipkHash": {"sha256": "e573f18d7ecfc0fac63e58278fc3ecf1a6e83ae1a7d53177ee4ad326df49876c"}
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         
