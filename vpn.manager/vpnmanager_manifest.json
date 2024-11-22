@@ -4,7 +4,7 @@
    "type": "native",
    "title": "OpenVPN Manager",
    "appDescription": "Приложение OpenVPN - OVPN",
-   "iconUri": "https://wals09.github.io/repo/vpnmanager/icon.png",
+   "iconUri": "https://wals09.github.io/repo/vpn.manager/icon.png",
    "sourceUrl": "https://t.me/chat_ipk_m/3150",
    "rootRequired": true,
    "ipkUrl": "https://www.dropbox.com/scl/fi/7khn53plho2n491ih7p7j/vpn.manager_24.11.16_all.ipk?rlkey=xvifv7trvwjqvdcjln23e7s39&st=3xobak8f&dl=1",
