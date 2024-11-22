@@ -1,0 +1,14 @@
+{
+   "id": "vpn.manager",
+   "version": "24.11.16",
+   "type": "native",
+   "title": "OpenVPN Manager",
+   "appDescription": "Приложение OpenVPN - OVPN",
+   "iconUri": "https://wals09.github.io/repo/vpnmanager/icon.png",
+   "sourceUrl": "https://t.me/chat_ipk_m/3150",
+   "rootRequired": true,
+   "ipkUrl": "https://www.dropbox.com/scl/fi/7khn53plho2n491ih7p7j/vpn.manager_24.11.16_all.ipk?rlkey=xvifv7trvwjqvdcjln23e7s39&st=3xobak8f&dl=1",
+   "ipkHash": {
+      "sha256": "84b710dc9494fed3c019c29a798ea133edc7fb9aac9cc82e3320a4ba4ecc31bf"
+   }
+}
