@@ -12,7 +12,7 @@
 </p>
 <p> <font color = "#FF0000">ВАЖНО</font>: Перед установкой и запуском приложения обязательно ознакомтесь с инструкцией. 
 </p>
-<p><font color = "#FF6600">Подробная инструкция:</font> <a href="https://teletype.in/@maxaon09/WebOS_OVPN">https://teletype.in/@maxaon09/WebOS_OVPN</a></p>
+<p><font color = "#FF6600">Подробная инструкция:</font> <a href="https://telegra.ph/WebOS-OVPN-klient-07-12</a></p>
 <p>Изменения версий:</p>
 <p>23.6.2 - добавлена возможность отключения OpenVPN без перезагрузки. Для выключения повторно нажать на иконку в панели приложений</p>
   </body>
