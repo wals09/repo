@@ -1,0 +1,23 @@
+{
+            "id": "vless.m.vpn",
+            "title": "***VLess VPN",
+            "iconUri": "https://github.com/wals09/repo/blob/main/proton.management/largeIcon.png?raw=true",
+            "manifest": {
+                "id": "vless.m.vpn",
+                "version": "2.0.0",
+                "type": "web",
+                "title": "VLess VPN",
+                "appDescription": "VLess клент для webOS",
+                "iconUri": "https://github.com/wals09/repo/blob/main/proton.management/largeIcon.png?raw=true",
+                "sourceUrl": "https://t.me/chat_ipk_m",
+                "rootRequired": true,
+                "ipkUrl": "https://www.dropbox.com/scl/fi/6eiiov2w6r0swybz27yiz/proton.management_4.0.1_all.ipk?rlkey=1c0gbardqxrjui4f9itatfgwm&st=fz3awrur&dl=1",
+                "ipkHash": {
+                    "sha256": "c07f2db18075f27369f7046a019d1416be2640845c8737c4ff08e7d571fa2a62"
+                },
+                "ipkSize": 11826406
+            },
+            "pool": "main",
+            "shortDescription": "VLess клент для webOS",
+            "fullDescriptionUrl": "https://raw.githubusercontent.com/wals09/repo/refs/heads/main/proton.management/proton.management.html"
+        },
